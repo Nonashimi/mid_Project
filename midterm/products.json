@@ -1,0 +1,168 @@
+[
+{
+    "id":"1",
+    "gender":"Мужчина",
+    "brand":"Nike",
+    "price":"49 990,00 KZT",
+    "img": "https://floimages.mncdn.com/mnpadding/600/900/FFFFFF/media/catalog/product/23-10/30/101493093_f1.jpg?w=600",
+    "text":"Nike Blazer Mid 77 Vntg Белый Мужчина Ботинки",
+    "model":"Nike Blazer Mid 77 Vntg",
+    "types":"Обувь"
+}
+,{
+    "id":"2",
+    "gender":"Женщина",
+    "brand":"Nike",
+    "price":"29 990,00 KZT",
+    "img":"https://floimages.mncdn.com/mnpadding/600/900/FFFFFF/media/catalog/product/23-09/05/101610382_d2.jpeg?w=600",
+    "text":"Nike W Nike Legend Essential 3 Розовый Женщина Бег",
+    "model":"Nike W Nike Legend Essential 3",
+    "types":"Обувь"
+}
+,
+{
+    "id":"3",
+    "gender":"Женщина",
+    "brand":"Adidas",
+    "price":"21 990,00 KZT",
+    "img":"https://floimages.mncdn.com/mnpadding/600/900/FFFFFF/media/catalog/product/23-09/05/101508694_d2.JPG?w=600",
+    "text":"Adidas Breaknet 2.0 Белый Женщина Полуботинки",
+    "model":"Adidas Breaknet 2.0",
+
+    "types":"Обувь"
+}
+,{
+    "id":"4",
+    "gender":"Женщина",
+    "brand":"Adidas",
+    "price":"31 990,00 KZT",
+    "img":"https://floimages.mncdn.com/mnpadding/600/900/FFFFFF/media/catalog/product/23-02/22/101513885_d2-1677055089.JPG?w=600",
+    "text":"Adidas Strutter Пудровый Женщина Полуботинки",
+    "model":"Adidas Strutter",
+
+    "types":"Обувь"
+}
+,{
+    "id":"5",
+    "gender":"Женщина",
+    "brand":"KineTix",
+    "price":"14 990,00 KZT",
+    "img":"https://floimages.mncdn.com/mnpadding/600/900/FFFFFF/media/catalog/product/23-09/19/101482648_f2.jpg?w=600",
+    "text":"Kinetix Int1223K098-Krk 3Pr Серебро Женщина Снежные Ботинки",
+    "model":"Kinetix Int1223K098-Krk 3Pr",
+
+    "types":"Обувь"
+}
+
+,{
+    "id":"6",
+    "gender":"Женщина",
+    "brand":"KineTix",
+    "price":"4490,00 KZT",
+    "img":"https://floimages.mncdn.com/mnpadding/600/900/FFFFFF/media/catalog/product/23-09/06/101414222_f2.jpg?w=600",
+    "text":"Kinetix Poro 3Pr Белый Женщина Сникеры На Утолщенной Под" ,
+    "model":"Kinetix Poro 3Pr",
+
+    "types":"Обувь"
+}
+,{
+    "id":"7",
+    "gender":"Дети",
+    "brand":"Polaris",
+    "price":"3590,00 KZT",
+    "img":"https://floimages.mncdn.com/mnpadding/600/900/FFFFFF/media/catalog/product/22-10/26/101202894_f2-1666772028.JPG?w=600",
+    "text":"Polaris Dino 1 Li Cosy Ptk-B 2Pr Зеленый Пинетки Мальчики Cosy Пинетки",
+    "model":"Polaris Dino 1 Li Cosy Ptk-B 2Pr",
+
+    "types":"Обувь" 
+},{
+    "id":"8",
+    "gender":"Мужчина",
+    "brand":"Polaris",
+    "price":"3190,00 KZT",
+    "img":"https://floimages.mncdn.com/mnpadding/600/900/FFFFFF/media/catalog/product/23-07/04/101469924_f2.jpg?w=600",
+    "text":"Polaris 606068.m3Pr Черный Мужчина Открытый Носок"   ,
+    "model":"Polaris 606068.m3Pr",
+
+    "types":"Обувь"
+}
+,{
+    "id":"9",
+    "gender":"Мужчина",
+    "brand":"KineTix",
+    "price":"4490,00 KZT",
+    "img":"https://floimages.mncdn.com/mnpadding/600/900/FFFFFF/media/catalog/product/23-09/06/101357997_f2.jpg?w=600",
+    "text":"Kinetix Int.minj002.2 3Fx Серый Мужчина Спорт Комфорт" ,
+    "model":"Kinetix Int.minj002.2 3Fx",
+
+    "types":"Обувь"
+}
+,{
+    "id":"10",
+    "gender":"Мужчина",
+    "brand":"U.S POLO ASSN.",
+    "price":"4490,00 KZT",
+    "img":"https://floimages.mncdn.com/mnpadding/600/900/FFFFFF/media/catalog/product/22-12/01/101369442_f2.JPG?w=600",
+    "text":"U.s. Polo Assn. Gusty 3Fx Ультрамарин Мужчина Пантолеты",
+    "model":"U.s. Polo Assn. Gusty 3Fx",
+
+    "types":"Обувь"
+}
+,{
+    "id":"11",
+    "gender":"Дети",
+    "brand":"KineTix",
+    "price":"4490,00 KZT",
+    "img":"https://floimages.mncdn.com/mnpadding/600/900/FFFFFF/media/catalog/product/22-12/07/101192074_f2.JPG?w=600",
+    "text":"Kinetix Bane Turf J 2Pr Неоновый Желтый Мальчик Футбольное Ковровое Поле",
+    "model":"Kinetix Bane Turf J 2Pr",
+
+    "types":"Обувь"
+}
+,{
+    "id":"12",
+    "gender":"Дети",
+    "brand":"Limberjack",
+    "price":"6990,00 KZT",
+    "img":"https://floimages.mncdn.com/mnpadding/600/900/FFFFFF/media/catalog/product/23-09/14/101450146_f2.jpg?w=600",
+    "text":"Lumberjack Harmony-Int 3Pr Бежевый Девочка Бег/ходьба",
+    "model":"Lumberjack Harmony-Int 3Pr",
+
+    "types":"Обувь"
+}
+,{
+    
+    "id":"13",
+    "gender":"Женщина",
+    "brand":"Limberjack",
+    "price":"6390,00 KZT",
+    "img":"https://floimages.mncdn.com/mnpadding/600/900/FFFFFF/media/catalog/product/21-08/19/101038231_f2-1629380524.JPG?w=600",
+    "text":"Lumberjack Tina 1Pr Белый Женщина Повседневная Обувь",
+    "model":"Lumberjack Tina 1Pr",
+
+    "types":"Обувь"
+}
+,{
+    "id":"14",
+    "gender":"Женщина",
+    "brand":"Limberjack",
+    "price":"6390,00 KZT",
+    "img":"https://floimages.mncdn.com/mnpadding/600/900/FFFFFF/media/catalog/product/23-03/29/101427187_d4.jpg?w=600",
+    "text":"Lumberjack Tina 1Pr Белый Женщина Повседневная Обувь",
+    "model":"Lumberjack Tina 1Pr ",
+
+    "types":"Обувь"
+}
+,{
+    "id":"15",
+    "gender":"Женщина",
+    "brand":"Polaris",
+    "price":"2790,00 KZT",
+    "img":"https://floimages.mncdn.com/mnpadding/600/900/FFFFFF/media/catalog/product/22-08/01/101187202_f2.JPG?w=600",
+    "text":"Polaris 163011.z2Pr Черный Женщина Обувь На Платформе",
+    "model":"Polaris 163011.z2Pr",
+
+    "types":"Обувь"
+}
+
+]
